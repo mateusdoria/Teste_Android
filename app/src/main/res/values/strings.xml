@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Teste_Android</string>
+    <string name="telephone_str">Telefone</string>
+    <string name="email_str">Email</string>
+    <string name="nome_completo_str">Nome completo</string>
+    <string name="greetings_main_screen_str">Olá, primeiro se apresente com o seu nome:</string>
+    <string name="send_str">Enviar</string>
+    <string name="company_name_str">Vinci Valorem FI Multimercado</string>
+    <string name="o_que_str">O que é?</string>
+    <string name="definition_str">O Fundo tem por objetivo proporcionar aos seus cotistas rentabilidade no longo prazo através de investimentos.</string>
+    <string name="grade_of_risk_str">Grau de risco do investimento</string>
+    <string name="risk_str">4</string>
+    <string name="more_info_str">Mais informações sobre o investimento</string>
+    <string name="month_str">Mês:</string>
+    <string name="year_str">Ano:</string>
+    <string name="_12_months_str">12 Meses:</string>
+    <string name="emailerror">Por favor, preencha um email válido!</string>
+    <string name="name_empty">Por favor, preencha seu nome!</string>
+    <string name="phone_empty">Por favor, insira um telefone válido!</string>
+    <string name="fund_str">fund:</string>
+    <string name="cid_str">cid:</string>
+    <string name="number_fund_month">0.3</string>
+    <string name="number_fund_year">13.01</string>
+    <string name="number_cid_year">12.08</string>
+    <string name="number_fund_12m">17.9</string>
+    <string name="number_cid_12m">17.6</string>
+    <string name="info_data">Informações:</string>
+</resources>
