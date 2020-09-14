@@ -5,7 +5,7 @@ public class Util {
     private String name;
     private String data;
 
-    public Util(String name, String date){
+    public Util(String name, String data){
         this.name = name;
         this.data = data;
     }

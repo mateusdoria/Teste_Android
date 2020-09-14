@@ -15,7 +15,7 @@ import com.basgeekball.awesomevalidation.utility.RegexTemplate;
 import com.example.teste_android.Model.Masks;
 import com.example.teste_android.R;
 
-import org.json.JSONObject;
+
 
 public class MainActivity extends AppCompatActivity {
 

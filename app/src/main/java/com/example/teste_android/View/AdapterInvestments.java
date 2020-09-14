@@ -47,7 +47,7 @@ public class AdapterInvestments extends RecyclerView.Adapter<RecyclerView.ViewHo
             default:
 
                 View layoutView = LayoutInflater.from(viewGroup.getContext()).inflate(
-                        R.layout.recycler_investment, viewGroup, false);
+                        R.layout.list_investment, viewGroup, false);
 
                 return new ItemViewHolder((layoutView));
         }
